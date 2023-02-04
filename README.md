@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 
 <p>
-<img height="100" alt="Music" src="media/askme.gif"> 
+<img height="100" alt="Work" src="media/business_secretary.gif"> 
 </a>
 </p>
 
