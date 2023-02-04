@@ -29,7 +29,28 @@ Here are some ideas to get you started:
 
 </div>
 <!-- Icons -->
-<
+<img height="50" src="media/icons/androidstudio.png" />
+<img height="50" src="media/icons/C#.png" />
+<img height="50" src="media/icons/css.png" />
+<img height="50" src="media/icons/expo.png" />
+<img height="50" src="media/icons/express.png" />
+<img height="50" src="media/icons/figma.png" />
+<img height="50" src="media/icons/firebase.png" />
+<img height="50" src="media/icons/git.png" />
+<img height="50" src="media/icons/github.png" />
+<img height="50" src="media/icons/html.png" />
+<img height="50" src="media/icons/http.png" />
+<img height="50" src="media/icons/javascript.png" />
+<img height="50" src="media/icons/mongo.webp" />
+<img height="50" src="media/icons/mui.png" />
+<img height="50" src="media/icons/node.png" />
+<img height="50" src="media/icons/npm.png" />
+<img height="50" src="media/icons/postman.png" />
+<img height="50" src="media/icons/python.png" />
+<img height="50" src="media/icons/react.png" />
+<img height="50" src="media/icons/rest.png" />
+<img height="50" src="media/icons/typescript.png" />
+<img height="50" src="media/icons/vscode.png" />
 
 <!-- Social -->
 <table width="100%" align="center">
