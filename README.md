@@ -24,6 +24,9 @@ Here are some ideas to get you started:
   <img src="https://github.com/maggiechew/maggiechew/blob/main/Welcome-to-my-page-2-3-2023.gif" style="width: 100vw;" alt="Hi there 👋" />
   <br />
   <br />
+<!--   <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" /> -->
+
+
 </div>
 
 <!-- Social -->
@@ -60,11 +63,13 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
-
+<br />
 <div align="center">
 <a href="https://github.com/maggiechew/maggiechew/issues/1#issuecomment-new"><img src="Guestbook-2-3-2023.gif" style="width: 25vw;"></a> 
-  <br />
+<br />
+
 </div>
+
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
@@ -74,6 +79,7 @@ Here are some ideas to get you started:
 | <a href="https://github.com/ToguDV"><img width="24" src="https://avatars.githubusercontent.com/u/45081449?s=24&v=4" alt="ToguDV" /> ToguDV</a> |1/20/2023, 9:32:38 PM|hiiiiii|
 | <a href="https://github.com/sumana10"><img width="24" src="https://avatars.githubusercontent.com/u/63727050?s=24&u=762893dd49cb83c73662f7f7be74d27a43d03a61&v=4" alt="sumana10" /> sumana10</a> |1/18/2023, 4:57:34 PM||
 <!-- /Guestbook -->
+
 <!-- Footer -->
 
 <div align="center">
