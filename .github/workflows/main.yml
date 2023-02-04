@@ -1,6 +1,5 @@
 # Credit to https://github.com/openscript/openscript :)
 
-
 on:
   issue_comment:
     types: [created, edited, deleted]
