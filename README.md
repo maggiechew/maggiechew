@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ![Snake animation](https://github.com/maggiechew/maggiechew/blob/output/github-contribution-grid-snake.svg)
 -->
-
+<div align="center">
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+</div>
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
