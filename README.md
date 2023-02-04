@@ -22,15 +22,16 @@ Here are some ideas to get you started:
 <!-- "Hero" Header -->
 <div align="center">
   <img src="https://github.com/maggiechew/maggiechew/blob/main/media/welcome.gif" style="width: 100vw;" alt="Hi there 👋" />
-  <br />
-  <br />
+  
 <!--   <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" /> -->
 
 
 </div>
 <!-- Icons -->
+<hr>
+<div align="center">
 <img height="50" src="media/icons/androidstudio.png" />
-<img height="50" src="media/icons/C#.png" />
+<img height="50" src="media/icons/c-sharp.png" />
 <img height="50" src="media/icons/css.png" />
 <img height="50" src="media/icons/expo.png" />
 <img height="50" src="media/icons/express.png" />
@@ -51,7 +52,10 @@ Here are some ideas to get you started:
 <img height="50" src="media/icons/rest.png" />
 <img height="50" src="media/icons/typescript.png" />
 <img height="50" src="media/icons/vscode.png" />
-
+<br />
+<br />
+<br />
+</div>
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
