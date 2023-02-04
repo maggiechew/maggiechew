@@ -101,7 +101,6 @@ Here are some ideas to get you started:
 | Name | Date | Message |
 |---|---|---|
 | <a href="https://github.com/maggiechew"><img width="24" src="https://avatars.githubusercontent.com/u/105380332?s=24&u=6f8ee525fa40664b633d6784b5e3709ed40bf3a4&v=4" alt="maggiechew" /> maggiechew</a> |2/4/2023, 6:22:22 AM|Test test|
-| <a href="https://github.com/maggiechew"><img width="24" src="https://avatars.githubusercontent.com/u/105380332?s=24&u=6f8ee525fa40664b633d6784b5e3709ed40bf3a4&v=4" alt="maggiechew" /> maggiechew</a> |2/4/2023, 6:11:59 AM|Test Test|
 <!-- /Guestbook -->
 
 <!-- Footer -->
