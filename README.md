@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <p>
 
-<img alt="Globe" height="80" src="images/globe.gif">
+<img alt="Globe" height="80" src="globe.gif">
 </a>
 </p>
 
@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 
 <p>
-<img height="100" alt="Music" src="images/music.gif"> 
+<img height="100" alt="Music" src="giphy.gif"> 
 </a>
 </p>
 
