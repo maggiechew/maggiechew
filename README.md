@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 </table>
 <br />
 <div align="center">
-<a href="https://github.com/maggiechew/maggiechew/issues/1#issuecomment-new"><img src="media/guestbook.gif" style="width: 25vw;"></a> 
+<a href="https://github.com/maggiechew/maggiechew/issues/1#issuecomment-new"><img src="media/guestbook.gif" style="width: 15vw;"></a> 
 <br />
 
 </div>
