@@ -21,13 +21,15 @@ Here are some ideas to get you started:
 -->
 <!-- "Hero" Header -->
 <div align="center">
-  <img src="https://github.com/maggiechew/maggiechew/blob/main/Welcome-to-my-page-2-3-2023.gif" style="width: 100vw;" alt="Hi there 👋" />
+  <img src="https://github.com/maggiechew/maggiechew/blob/main/media/Welcome-to-my-page-2-3-2023.gif" style="width: 100vw;" alt="Hi there 👋" />
   <br />
   <br />
 <!--   <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" /> -->
 
 
 </div>
+<!-- Icons -->
+<
 
 <!-- Social -->
 <table width="100%" align="center">
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 
 <p>
 
-<img alt="Globe" height="80" src="globe.gif">
+<img alt="Globe" height="80" src="media/globe.gif">
 </a>
 </p>
 
@@ -56,7 +58,7 @@ Here are some ideas to get you started:
 
 
 <p>
-<img height="100" alt="Music" src="giphy.gif"> 
+<img height="100" alt="Music" src="media/giphy.gif"> 
 </a>
 </p>
 
@@ -65,7 +67,7 @@ Here are some ideas to get you started:
 </table>
 <br />
 <div align="center">
-<a href="https://github.com/maggiechew/maggiechew/issues/1#issuecomment-new"><img src="Guestbook-2-3-2023.gif" style="width: 25vw;"></a> 
+<a href="https://github.com/maggiechew/maggiechew/issues/1#issuecomment-new"><img src="media/Guestbook-2-3-2023.gif" style="width: 25vw;"></a> 
 <br />
 
 </div>
