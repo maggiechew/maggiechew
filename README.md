@@ -66,7 +66,7 @@ Here are some ideas to get you started:
 </table>
 
 <div align="center">
-<a href="https://github.com/maggiechew/maggiechew/issues/1#issuecomment-new"><img src="Guestbook-2-3-2023.gif"></a> 
+<a href="https://github.com/maggiechew/maggiechew/issues/1#issuecomment-new"><img src="Guestbook-2-3-2023.gif" style="width: 50vw;"></a> 
 </div>
 
 <!-- Guestbook -->
