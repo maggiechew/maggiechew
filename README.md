@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://maggiechew.com">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -50,8 +50,8 @@ Here are some ideas to get you started:
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-<strong>Listen to cool music</strong>
+<a href="https://www.linkedin.com/in/maggie-chew-00226273/">
+<strong>Find me on Linkedin</strong>
 <br />
 <br />
 
