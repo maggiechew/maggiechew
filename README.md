@@ -25,7 +25,6 @@ Here are some ideas to get you started:
   
 <!--   <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" /> -->
 
-
 </div>
 <!-- Icons -->
 <hr>
@@ -56,6 +55,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 </div>
+
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
@@ -97,6 +97,8 @@ Here are some ideas to get you started:
 
 </div>
 
+
+
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
@@ -114,4 +116,8 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/maggiechew/count.svg)
 
+</div>
+
+<div>
+<img src="https://github.com/maggiechew/maggiechew/blob/main/media/HoHollywoodHeights4199Construction-Lemmings.gif" style="width: 100vw;" alt="Under Construction" />
 </div>
