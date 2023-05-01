@@ -23,13 +23,15 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github.com/maggiechew/maggiechew/blob/main/media/welcome.gif" style="width: 100vw;" alt="Hi there 👋" />
   <br />
-  <br />
+  
 <!--   <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" /> -->
 
 </div>
 <!-- Icons -->
+<hr>
+<div align="center">
 <img height="50" src="media/icons/androidstudio.png" />
-<img height="50" src="media/icons/C#.png" />
+<img height="50" src="media/icons/c-sharp.png" />
 <img height="50" src="media/icons/css.png" />
 <img height="50" src="media/icons/expo.png" />
 <img height="50" src="media/icons/express.png" />
@@ -52,6 +54,10 @@ Here are some ideas to get you started:
 <img height="50" src="media/icons/SQL.png" />
 <img height="50" src="media/icons/typescript.png" />
 <img height="50" src="media/icons/vscode.png" />
+<br />
+<br />
+<br />
+</div>
 
 <!-- Social -->
 <table width="100%" align="center">
@@ -78,7 +84,7 @@ Here are some ideas to get you started:
 <br />
 
 <p>
-<img height="100" alt="Music" src="media/askme.gif"> 
+<img height="100" alt="Work" src="media/business_secretary.gif"> 
 </a>
 </p>
 
@@ -87,21 +93,21 @@ Here are some ideas to get you started:
 </table>
 <br />
 <div align="center">
-<a href="https://github.com/maggiechew/maggiechew/issues/1#issuecomment-new"><img src="media/guestbook.gif" style="width: 25vw;"></a> 
+<a href="https://github.com/maggiechew/maggiechew/issues/1#issuecomment-new"><img src="media/guestbook.svg" ></a> 
 <br />
 
 </div>
 
+
+
 <!-- Guestbook -->
-
-| Name                                                                                                                                                                                                               | Date                  | Message                                                                                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------- | -------------------------------------------------------------------------------------- |
-| <a href="https://github.com/devxyzr"><img width="24" src="https://avatars.githubusercontent.com/u/99299512?s=24&u=9c8204e65cdccf34b49ce68350a9e058ef547855&v=4" alt="devxyzr" /> devxyzr</a>                       | 1/31/2023, 9:44:33 PM | Hello                                                                                  |
-| <a href="https://github.com/YaoSiQian"><img width="24" src="https://avatars.githubusercontent.com/u/29835749?s=24&v=4" alt="YaoSiQian" /> YaoSiQian</a>                                                            | 1/28/2023, 2:57:50 PM | 跨越长城，走向世界！<br />Across the Great Wall we can reach every corner in the world |
-| <a href="https://github.com/krishnapriya-n"><img width="24" src="https://avatars.githubusercontent.com/u/101842284?s=24&u=4f0896da3c4d5201dea78128de97c8234c7ca8c2&v=4" alt="krishnapriya-n" /> krishnapriya-n</a> | 1/22/2023, 7:41:55 AM | amazing 😎                                                                             |
-| <a href="https://github.com/ToguDV"><img width="24" src="https://avatars.githubusercontent.com/u/45081449?s=24&v=4" alt="ToguDV" /> ToguDV</a>                                                                     | 1/20/2023, 9:32:38 PM | hiiiiii                                                                                |
-| <a href="https://github.com/sumana10"><img width="24" src="https://avatars.githubusercontent.com/u/63727050?s=24&u=762893dd49cb83c73662f7f7be74d27a43d03a61&v=4" alt="sumana10" /> sumana10</a>                    | 1/18/2023, 4:57:34 PM |                                                                                        |
-
+| Name | Date | Message |
+|---|---|---|
+| <a href="https://github.com/Juniper007"><img width="24" src="https://avatars.githubusercontent.com/u/113141579?s=24&u=19a436e729521c44d29fcfb573735c4a80db0dd8&v=4" alt="Juniper007" /> Juniper007</a> |2/24/2023, 7:09:18 AM|This is amazing!|
+| <a href="https://github.com/georgekwan"><img width="24" src="https://avatars.githubusercontent.com/u/103894980?s=24&u=e4b754aedb87357b72a082691927313bdc418921&v=4" alt="georgekwan" /> georgekwan</a> |2/24/2023, 5:04:59 AM|Looks like Yan posted a hateful comment that Maggie had to delete😂|
+| <a href="https://github.com/danibarker"><img width="24" src="https://avatars.githubusercontent.com/u/63336634?s=24&v=4" alt="danibarker" /> danibarker</a> |2/4/2023, 7:40:45 PM|Dani was here|
+| <a href="https://github.com/yanliu1111"><img width="24" src="https://avatars.githubusercontent.com/u/105611260?s=24&u=193e904d9a1a1cd0a421b89df7bec59899fa2506&v=4" alt="yanliu1111" /> yanliu1111</a> |2/4/2023, 6:25:45 PM|Hello, could we have a coffee chat. 😘|
+| <a href="https://github.com/maggiechew"><img width="24" src="https://avatars.githubusercontent.com/u/105380332?s=24&u=6f8ee525fa40664b633d6784b5e3709ed40bf3a4&v=4" alt="maggiechew" /> maggiechew</a> |2/4/2023, 6:22:22 AM|Test test|
 <!-- /Guestbook -->
 
 <!-- Footer -->
@@ -113,4 +119,8 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/maggiechew/count.svg)
 
+</div>
+
+<div>
+<img src="https://github.com/maggiechew/maggiechew/blob/main/media/HoHollywoodHeights4199Construction-Lemmings.gif" style="width: 100vw;" alt="Under Construction" />
 </div>
