@@ -24,7 +24,6 @@ Here are some ideas to get you started:
   <img src="https://github.com/maggiechew/maggiechew/blob/main/media/welcome.gif" style="width: 100vw;" alt="Hi there 👋" />
   <br />
   
-<!--   <img height="50" alt="My Name is Livio and I like Node.js" src="images/personal_note.svg" /> -->
 
 </div>
 <!-- Icons -->
