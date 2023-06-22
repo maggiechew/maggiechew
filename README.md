@@ -53,6 +53,8 @@ Here are some ideas to get you started:
 <img height="50" src="media/icons/SQL.png" />
 <img height="50" src="media/icons/typescript.png" />
 <img height="50" src="media/icons/vscode.png" />
+<img height="50" src="media/icons/fastapi.png" />
+<img height="50" src="media/icons/postgresql.png" />
 <br />
 <br />
 <br />
